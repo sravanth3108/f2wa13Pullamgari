@@ -1,0 +1,29 @@
+{
+  "name": "f2wa13pullamgari",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "less-middleware": "^3.1.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanth3108/f2wa13Pullamgari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravanth3108/f2wa13Pullamgari/issues"
+  },
+  "homepage": "https://github.com/sravanth3108/f2wa13Pullamgari#readme"
+}
